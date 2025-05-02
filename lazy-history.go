@@ -5,10 +5,19 @@ import (
 	"os"
 	"path/filepath"
 
+	tea "github.com/charmbracelet/bubbletea"
 	lib "github.com/sacenox/lazy-history/lib"
 )
 
 func main() {
+
+	if lib.IsDebug {
+		f, err := tea.LogToFile("debug.log", "debug")
+		if err != nil {
+			lib.Fatalf("Failed to log to file: %v", err)
+		}
+		defer f.Close()
+	}
 
 	query := os.Args[1] // args without program name
 
@@ -51,8 +60,10 @@ func main() {
 	}
 
 	results := lib.Search(history, query)
-	// Print each line of the search results
-	for _, result := range results {
-		lib.Debugf("found: %s", result)
+	p := tea.NewProgram(lib.NewHistory(results))
+
+	_, err := p.Run()
+	if err != nil {
+		lib.Fatalf("Failed to run program: %v", err)
 	}
 }

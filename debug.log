@@ -1,0 +1,1997 @@
+debug 2025/05/02 16:06:32 Query: which
+debug 2025/05/02 16:06:32 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:06:32 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:06:32 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:06:32 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:06:32 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:06:32 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:06:32 "which" not found
+debug 2025/05/02 16:06:36 key: up
+debug 2025/05/02 16:06:37 key: down
+debug 2025/05/02 16:06:39 key: enter
+debug 2025/05/02 16:07:13 key: q
+debug 2025/05/02 16:07:15 Query: which
+debug 2025/05/02 16:07:15 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:07:15 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:07:15 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:07:15 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:07:15 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:07:15 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:07:15 "which" not found
+debug 2025/05/02 16:07:16 key: enter
+debug 2025/05/02 16:07:20 key: down
+debug 2025/05/02 16:07:21 key: enter
+debug 2025/05/02 16:07:48 key: q
+debug 2025/05/02 16:07:50 Query: which
+debug 2025/05/02 16:07:50 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:07:50 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:07:50 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:07:50 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:07:50 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:07:50 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:07:50 "which" not found
+debug 2025/05/02 16:07:51 key: enter
+debug 2025/05/02 16:07:52 key: down
+debug 2025/05/02 16:07:53 key: enter
+debug 2025/05/02 16:07:53 key: enter
+debug 2025/05/02 16:07:53 key: enter
+debug 2025/05/02 16:08:20 key: q
+debug 2025/05/02 16:08:53 Query: which
+debug 2025/05/02 16:08:53 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:08:53 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:08:53 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:08:53 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:08:53 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:08:53 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:08:53 "which" not found
+debug 2025/05/02 16:08:53 default: {212 34}
+debug 2025/05/02 16:08:54 key: down
+debug 2025/05/02 16:08:55 key: enter
+debug 2025/05/02 16:08:55 default: 0x104fcf810
+debug 2025/05/02 16:09:08 key: up
+debug 2025/05/02 16:09:09 key: q
+debug 2025/05/02 16:09:10 Query: which
+debug 2025/05/02 16:09:10 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:09:10 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:09:10 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:09:10 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:09:10 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:09:10 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:09:10 "which" not found
+debug 2025/05/02 16:09:11 key: down
+debug 2025/05/02 16:09:12 key: enter
+debug 2025/05/02 16:09:13 key: down
+debug 2025/05/02 16:09:13 key: down
+debug 2025/05/02 16:09:13 key: down
+debug 2025/05/02 16:09:15 key: up
+debug 2025/05/02 16:09:16 key: down
+debug 2025/05/02 16:09:16 key: enter
+debug 2025/05/02 16:09:16 key: \
+debug 2025/05/02 16:09:35 key: q
+debug 2025/05/02 16:09:36 Query: which
+debug 2025/05/02 16:09:36 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:09:36 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:09:36 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:09:36 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:09:36 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:09:36 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:09:36 "which" not found
+debug 2025/05/02 16:09:36 []interface {}{
+    tea.WindowSizeMsg{Width:212, Height:34},
+}
+debug 2025/05/02 16:09:39 key: up
+debug 2025/05/02 16:09:40 key: down
+debug 2025/05/02 16:09:41 key: enter
+debug 2025/05/02 16:09:41 []interface {}{
+    tea.Cmd {...},
+}
+debug 2025/05/02 16:10:31 key: q
+debug 2025/05/02 16:12:47 Query: which
+debug 2025/05/02 16:12:47 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:12:47 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:12:47 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:12:47 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:12:47 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:12:47 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:12:47 "which" not found
+debug 2025/05/02 16:12:47 key: down
+debug 2025/05/02 16:12:48 key: enter
+debug 2025/05/02 16:12:49 key: enter
+debug 2025/05/02 16:12:49 key: enter
+debug 2025/05/02 16:12:50 key: enter
+debug 2025/05/02 16:12:50 key: enter
+debug 2025/05/02 16:12:50 key: enter
+debug 2025/05/02 16:12:50 key: enter
+debug 2025/05/02 16:13:16 key: q
+debug 2025/05/02 16:13:17 Query: which
+debug 2025/05/02 16:13:17 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:13:17 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:13:17 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:13:17 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:13:17 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:13:17 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:13:17 "which" not found
+debug 2025/05/02 16:13:18 key: down
+debug 2025/05/02 16:13:18 key: enter
+debug 2025/05/02 16:13:18 executing: which oapi-codegen
+debug 2025/05/02 16:14:40 key: q
+debug 2025/05/02 16:14:43 Query: which
+debug 2025/05/02 16:14:43 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:14:43 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:14:43 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:14:43 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:14:43 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:14:43 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:14:43 "which" not found
+debug 2025/05/02 16:14:46 key: enter
+debug 2025/05/02 16:14:46 executing: which pkill
+debug 2025/05/02 16:14:46 executing: which pkill
+debug 2025/05/02 16:17:02 key: q
+debug 2025/05/02 16:17:04 Query: which
+debug 2025/05/02 16:17:04 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:17:04 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:17:04 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:17:04 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:17:04 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:17:04 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:17:04 "which" not found
+debug 2025/05/02 16:17:04 tea.WindowSizeMsg{Width:212, Height:34}
+debug 2025/05/02 16:17:05 tea.KeyMsg{
+    Type:  13,
+    Runes: nil,
+    Alt:   false,
+    Paste: false,
+}
+debug 2025/05/02 16:17:05 key: enter
+debug 2025/05/02 16:17:05 executing: which pkill
+debug 2025/05/02 16:17:05 executing: which pkill
+debug 2025/05/02 16:17:05 tea.Cmd {...}
+debug 2025/05/02 16:19:33 tea.KeyMsg{
+    Type:  -1,
+    Runes: {113},
+    Alt:   false,
+    Paste: false,
+}
+debug 2025/05/02 16:19:33 key: q
+debug 2025/05/02 16:19:35 Query: which
+debug 2025/05/02 16:19:35 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:19:35 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:19:35 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:19:35 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:19:35 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:19:35 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:19:35 "which" not found
+debug 2025/05/02 16:19:37 key: enter
+debug 2025/05/02 16:19:37 executing: which pkill
+debug 2025/05/02 16:19:37 executing: which pkill
+debug 2025/05/02 16:19:37 error: exec: "which pkill": executable file not found in $PATH
+debug 2025/05/02 16:19:37 ExecuteEntryMsg: {exec: "which pkill": executable file not found in $PATH}
+debug 2025/05/02 16:19:37 error: exec: "which pkill": executable file not found in $PATH
+debug 2025/05/02 16:19:54 key: q
+debug 2025/05/02 16:22:48 Query: which
+debug 2025/05/02 16:22:48 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:22:48 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:22:48 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:22:48 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:22:48 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:22:48 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:22:48 "which" not found
+debug 2025/05/02 16:22:51 key: down
+debug 2025/05/02 16:22:51 key: down
+debug 2025/05/02 16:22:52 key: enter
+debug 2025/05/02 16:22:52 executing: which lolcat
+debug 2025/05/02 16:22:52 executing: which lolcat
+debug 2025/05/02 16:22:52 error: <nil>
+debug 2025/05/02 16:22:52 ExecuteEntryMsg: {<nil>}
+debug 2025/05/02 16:27:28 Query: which
+debug 2025/05/02 16:27:28 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:27:28 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:27:28 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:27:28 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:27:28 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:27:28 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:27:28 "which" not found
+debug 2025/05/02 16:27:28 key: down
+debug 2025/05/02 16:27:28 key: down
+debug 2025/05/02 16:27:29 key: enter
+debug 2025/05/02 16:27:29 executing: which lolcat
+debug 2025/05/02 16:27:29 executing: which lolcat
+debug 2025/05/02 16:27:29 error: <nil>
+debug 2025/05/02 16:27:29 ExecuteEntryMsg: {<nil>}
+debug 2025/05/02 16:32:09 Query: which
+debug 2025/05/02 16:32:09 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:32:09 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:32:09 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:32:09 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:32:09 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:32:09 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:32:09 "which" not found
+debug 2025/05/02 16:32:10 key: down
+debug 2025/05/02 16:32:10 key: enter
+debug 2025/05/02 16:32:10 executing: which oapi-codegen
+debug 2025/05/02 16:32:10 executing: which oapi-codegen
+debug 2025/05/02 16:32:10 error: <nil>
+debug 2025/05/02 16:32:10 ExecuteEntryMsg: {<nil>}
+debug 2025/05/02 16:32:16 Query: which
+debug 2025/05/02 16:32:16 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:32:16 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:32:16 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:32:16 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:32:16 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:32:16 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:32:16 "which" not found
+debug 2025/05/02 16:32:17 key: up
+debug 2025/05/02 16:32:17 key: down
+debug 2025/05/02 16:32:18 key: down
+debug 2025/05/02 16:32:18 key: enter
+debug 2025/05/02 16:32:18 executing: which lolcat
+debug 2025/05/02 16:32:18 executing: which lolcat
+debug 2025/05/02 16:32:18 error: <nil>
+debug 2025/05/02 16:32:18 ExecuteEntryMsg: {<nil>}
+debug 2025/05/02 16:35:40 Query: which
+debug 2025/05/02 16:35:40 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:35:40 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:35:40 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:35:40 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:35:40 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:35:40 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:35:40 "which" not found
+debug 2025/05/02 16:35:42 key: enter
+debug 2025/05/02 16:35:42 executing: which pkill
+debug 2025/05/02 16:35:42 executing: which pkill
+debug 2025/05/02 16:39:01 Query: which
+debug 2025/05/02 16:39:01 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:39:01 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:39:01 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:39:01 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:39:01 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:39:01 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:39:01 "which" not found
+debug 2025/05/02 16:39:05 key: down
+debug 2025/05/02 16:39:06 key: down
+debug 2025/05/02 16:39:06 key: up
+debug 2025/05/02 16:39:06 key: up
+debug 2025/05/02 16:39:07 key: enter
+debug 2025/05/02 16:39:07 executing: which pkill
+debug 2025/05/02 16:39:07 executing: which pkill
+debug 2025/05/02 16:39:07 error: <nil>
+debug 2025/05/02 16:39:07 ExecuteEntryMsg: {<nil>}
+debug 2025/05/02 16:39:12 Query: which
+debug 2025/05/02 16:39:12 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:39:12 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:39:12 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:39:12 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:39:12 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:39:12 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:39:12 "which" not found
+debug 2025/05/02 16:39:15 key: q
+debug 2025/05/02 16:39:51 Query: which
+debug 2025/05/02 16:39:51 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:39:51 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:39:51 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:39:51 found "which" at index 1001: "which lolcat"
+debug 2025/05/02 16:39:51 found "which" at index 1001: "which oapi-codegen"
+debug 2025/05/02 16:39:51 found "which" at index 1001: "which pkill"
+debug 2025/05/02 16:39:51 "which" not found
+debug 2025/05/02 16:39:52 key: down
+debug 2025/05/02 16:39:52 key: enter
+debug 2025/05/02 16:39:52 executing: which oapi-codegen
+debug 2025/05/02 16:39:52 executing: which oapi-codegen
+debug 2025/05/02 16:39:52 error: <nil>
+debug 2025/05/02 16:39:52 ExecuteEntryMsg: {<nil>}
+debug 2025/05/02 16:40:02 Query: git
+debug 2025/05/02 16:40:02 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:40:02 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:40:02 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:40:02 found "git" at index 580: "git amend"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git branch"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout development"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git commit --amend"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git diff"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git diff"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git diff"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git diff"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git reset"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git reset --hard"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git reset HEAD~1"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git reset wormhole"
+debug 2025/05/02 16:40:02 found "git" at index 580: "git stash"
+debug 2025/05/02 16:40:02 "git" not found
+debug 2025/05/02 16:40:08 key: q
+debug 2025/05/02 16:41:44 Query: git
+debug 2025/05/02 16:41:44 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:41:44 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:41:44 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:41:44 found "git" at index 580: "git amend"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git branch"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout development"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git commit --amend"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git diff"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git diff"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git diff"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git diff"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git reset"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git reset --hard"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git reset HEAD~1"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git reset wormhole"
+debug 2025/05/02 16:41:44 found "git" at index 580: "git stash"
+debug 2025/05/02 16:41:44 "git" not found
+debug 2025/05/02 16:41:46 key: down
+debug 2025/05/02 16:41:46 key: down
+debug 2025/05/02 16:41:46 key: down
+debug 2025/05/02 16:41:46 key: down
+debug 2025/05/02 16:41:47 key: down
+debug 2025/05/02 16:41:47 key: down
+debug 2025/05/02 16:41:47 key: down
+debug 2025/05/02 16:41:47 key: down
+debug 2025/05/02 16:41:47 key: down
+debug 2025/05/02 16:41:51 key: down
+debug 2025/05/02 16:41:51 key: down
+debug 2025/05/02 16:41:51 key: up
+debug 2025/05/02 16:41:52 key: up
+debug 2025/05/02 16:42:20 key: q
+debug 2025/05/02 16:42:22 Query: git
+debug 2025/05/02 16:42:22 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:42:22 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:42:22 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:42:22 found "git" at index 580: "git amend"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git branch"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout development"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git commit --amend"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git reset"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git reset --hard"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git reset HEAD~1"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git reset wormhole"
+debug 2025/05/02 16:42:22 found "git" at index 580: "git stash"
+debug 2025/05/02 16:42:22 "git" not found
+debug 2025/05/02 16:42:22 Failed to run program: program was killed: program experienced a panic
+debug 2025/05/02 16:42:55 Query: git
+debug 2025/05/02 16:42:55 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:42:55 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:42:55 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:42:55 found "git" at index 580: "git amend"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git branch"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout development"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git commit --amend"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git diff"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git reset"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git reset --hard"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git reset HEAD~1"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git reset wormhole"
+debug 2025/05/02 16:42:55 found "git" at index 580: "git stash"
+debug 2025/05/02 16:42:55 "git" not found
+debug 2025/05/02 16:42:56 key: down
+debug 2025/05/02 16:42:56 key: down
+debug 2025/05/02 16:42:56 key: down
+debug 2025/05/02 16:42:56 key: down
+debug 2025/05/02 16:42:56 key: down
+debug 2025/05/02 16:42:56 key: down
+debug 2025/05/02 16:42:57 key: down
+debug 2025/05/02 16:42:57 key: down
+debug 2025/05/02 16:42:57 key: down
+debug 2025/05/02 16:42:57 key: down
+debug 2025/05/02 16:42:57 key: down
+debug 2025/05/02 16:42:58 key: down
+debug 2025/05/02 16:42:58 key: down
+debug 2025/05/02 16:42:58 key: down
+debug 2025/05/02 16:42:58 key: down
+debug 2025/05/02 16:42:59 key: up
+debug 2025/05/02 16:42:59 key: up
+debug 2025/05/02 16:42:59 key: up
+debug 2025/05/02 16:42:59 key: up
+debug 2025/05/02 16:42:59 key: up
+debug 2025/05/02 16:43:00 key: up
+debug 2025/05/02 16:43:00 key: up
+debug 2025/05/02 16:43:00 key: up
+debug 2025/05/02 16:43:00 key: up
+debug 2025/05/02 16:43:01 key: up
+debug 2025/05/02 16:43:01 key: up
+debug 2025/05/02 16:43:02 key: up
+debug 2025/05/02 16:43:02 key: up
+debug 2025/05/02 16:43:02 key: down
+debug 2025/05/02 16:43:02 key: down
+debug 2025/05/02 16:43:03 key: down
+debug 2025/05/02 16:43:04 key: down
+debug 2025/05/02 16:43:05 key: down
+debug 2025/05/02 16:43:06 key: down
+debug 2025/05/02 16:43:07 key: down
+debug 2025/05/02 16:43:07 key: down
+debug 2025/05/02 16:43:09 key: up
+debug 2025/05/02 16:43:10 key: up
+debug 2025/05/02 16:43:10 key: up
+debug 2025/05/02 16:43:10 key: up
+debug 2025/05/02 16:43:10 key: up
+debug 2025/05/02 16:43:10 key: up
+debug 2025/05/02 16:43:37 key: q
+debug 2025/05/02 16:44:41 Query: git
+debug 2025/05/02 16:44:41 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:44:41 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:44:41 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:44:41 found "git" at index 580: "git amend"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git branch"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ."
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout development"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git commit --amend"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git diff"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git diff"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git diff"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git diff"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git log -p"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git merge develop"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git reset"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git reset --hard"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git reset HEAD~1"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git reset wormhole"
+debug 2025/05/02 16:44:41 found "git" at index 580: "git stash"
+debug 2025/05/02 16:44:41 "git" not found
+debug 2025/05/02 16:44:41 key: down
+debug 2025/05/02 16:44:42 key: down
+debug 2025/05/02 16:44:42 key: down
+debug 2025/05/02 16:44:43 key: down
+debug 2025/05/02 16:44:43 key: down
+debug 2025/05/02 16:44:44 key: down
+debug 2025/05/02 16:44:45 key: down
+debug 2025/05/02 16:44:45 key: down
+debug 2025/05/02 16:44:47 key: up
+debug 2025/05/02 16:44:48 key: up
+debug 2025/05/02 16:44:50 key: down
+debug 2025/05/02 16:44:50 key: up
+debug 2025/05/02 16:44:51 key: up
+debug 2025/05/02 16:44:52 key: up
+debug 2025/05/02 16:44:53 key: up
+debug 2025/05/02 16:44:53 key: up
+debug 2025/05/02 16:44:54 key: up
+debug 2025/05/02 16:44:55 key: up
+debug 2025/05/02 16:44:56 key: down
+debug 2025/05/02 16:44:56 key: down
+debug 2025/05/02 16:44:56 key: down
+debug 2025/05/02 16:44:56 key: down
+debug 2025/05/02 16:44:56 key: down
+debug 2025/05/02 16:44:57 key: down
+debug 2025/05/02 16:46:45 key: q
+debug 2025/05/02 16:46:47 Query: git
+debug 2025/05/02 16:46:47 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:46:47 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:46:47 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:46:47 found "git" at index 383: "git amend"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git branch"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout development"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git commit --amend"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git diff"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git diff"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git diff"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git diff"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git reset"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git reset --hard"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git reset HEAD~1"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git reset wormhole"
+debug 2025/05/02 16:46:47 found "git" at index 383: "git stash"
+debug 2025/05/02 16:46:47 "git" not found
+debug 2025/05/02 16:46:48 key: down
+debug 2025/05/02 16:46:48 key: down
+debug 2025/05/02 16:46:48 key: down
+debug 2025/05/02 16:46:49 key: down
+debug 2025/05/02 16:46:49 key: down
+debug 2025/05/02 16:46:49 key: down
+debug 2025/05/02 16:46:49 key: down
+debug 2025/05/02 16:46:50 key: down
+debug 2025/05/02 16:46:50 key: down
+debug 2025/05/02 16:46:51 key: down
+debug 2025/05/02 16:46:52 key: up
+debug 2025/05/02 16:46:53 key: up
+debug 2025/05/02 16:46:54 key: up
+debug 2025/05/02 16:46:54 key: up
+debug 2025/05/02 16:46:55 key: up
+debug 2025/05/02 16:46:55 key: up
+debug 2025/05/02 16:46:55 key: up
+debug 2025/05/02 16:46:56 key: up
+debug 2025/05/02 16:46:56 key: up
+debug 2025/05/02 16:46:56 key: up
+debug 2025/05/02 16:47:02 key: q
+debug 2025/05/02 16:47:03 Query: git
+debug 2025/05/02 16:47:03 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:47:03 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:47:03 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:47:03 found "git" at index 383: "git amend"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git branch"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout development"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git commit --amend"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git diff"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git diff"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git diff"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git diff"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git reset"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git reset --hard"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git reset HEAD~1"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git reset wormhole"
+debug 2025/05/02 16:47:03 found "git" at index 383: "git stash"
+debug 2025/05/02 16:47:03 "git" not found
+debug 2025/05/02 16:48:52 key: pgup
+debug 2025/05/02 16:48:52 key: pgdown
+debug 2025/05/02 16:48:54 key: q
+debug 2025/05/02 16:48:55 Query: git
+debug 2025/05/02 16:48:55 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:48:55 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:48:55 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:48:55 found "git" at index 383: "git amend"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git branch"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout development"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git commit --amend"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git diff"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git diff"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git diff"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git diff"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git reset"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git reset --hard"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git reset HEAD~1"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git reset wormhole"
+debug 2025/05/02 16:48:55 found "git" at index 383: "git stash"
+debug 2025/05/02 16:48:55 "git" not found
+debug 2025/05/02 16:48:57 key: down
+debug 2025/05/02 16:48:57 key: down
+debug 2025/05/02 16:48:57 key: down
+debug 2025/05/02 16:48:57 key: down
+debug 2025/05/02 16:48:58 key: down
+debug 2025/05/02 16:48:58 key: down
+debug 2025/05/02 16:48:58 key: down
+debug 2025/05/02 16:48:59 key: down
+debug 2025/05/02 16:48:59 key: down
+debug 2025/05/02 16:48:59 key: down
+debug 2025/05/02 16:49:00 key: down
+debug 2025/05/02 16:49:00 key: up
+debug 2025/05/02 16:49:01 key: up
+debug 2025/05/02 16:49:01 key: up
+debug 2025/05/02 16:49:01 key: up
+debug 2025/05/02 16:49:01 key: up
+debug 2025/05/02 16:49:02 key: down
+debug 2025/05/02 16:49:03 key: down
+debug 2025/05/02 16:49:03 key: down
+debug 2025/05/02 16:49:04 key: up
+debug 2025/05/02 16:49:04 key: up
+debug 2025/05/02 16:49:04 key: up
+debug 2025/05/02 16:49:05 key: up
+debug 2025/05/02 16:49:05 key: up
+debug 2025/05/02 16:49:05 key: up
+debug 2025/05/02 16:49:06 key: up
+debug 2025/05/02 16:49:06 key: up
+debug 2025/05/02 16:49:07 key: up
+debug 2025/05/02 16:49:28 key: q
+debug 2025/05/02 16:49:29 Query: git
+debug 2025/05/02 16:49:29 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:49:29 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:49:29 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:49:29 deduplicating history, len before: 1007
+debug 2025/05/02 16:49:29 deduplicated history, len after: 790
+debug 2025/05/02 16:49:29 found "git" at index 383: "git amend"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git branch"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ."
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout development"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git commit --amend"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git diff"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git diff"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git diff"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git diff"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git log -p"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git merge develop"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git reset"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git reset --hard"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git reset HEAD~1"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git reset wormhole"
+debug 2025/05/02 16:49:29 found "git" at index 383: "git stash"
+debug 2025/05/02 16:49:29 "git" not found
+debug 2025/05/02 16:51:16 key: q
+debug 2025/05/02 16:51:18 Query: git
+debug 2025/05/02 16:51:18 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 16:51:18 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 16:51:18 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 16:51:18 deduplicating history, len before: 1007
+debug 2025/05/02 16:51:18 deduplicated history, len after: 238
+debug 2025/05/02 16:51:18 found "git" at index 115: "git amend"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git branch"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout ."
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout development"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git diff"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git log -p"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git merge develop"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git reset"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 16:51:18 found "git" at index 115: "git stash"
+debug 2025/05/02 16:51:18 "git" not found
+debug 2025/05/02 16:51:30 key: down
+debug 2025/05/02 16:51:30 key: down
+debug 2025/05/02 16:51:30 key: down
+debug 2025/05/02 16:51:30 key: down
+debug 2025/05/02 16:51:30 key: down
+debug 2025/05/02 16:51:31 key: down
+debug 2025/05/02 16:51:31 key: down
+debug 2025/05/02 16:51:31 key: down
+debug 2025/05/02 16:51:31 key: down
+debug 2025/05/02 16:51:31 key: down
+debug 2025/05/02 16:51:32 key: down
+debug 2025/05/02 16:51:32 key: down
+debug 2025/05/02 16:51:32 key: down
+debug 2025/05/02 16:51:33 key: down
+debug 2025/05/02 16:51:33 key: down
+debug 2025/05/02 16:51:33 key: down
+debug 2025/05/02 16:51:33 key: down
+debug 2025/05/02 16:51:33 key: up
+debug 2025/05/02 16:51:34 key: up
+debug 2025/05/02 16:51:34 key: up
+debug 2025/05/02 16:51:34 key: up
+debug 2025/05/02 16:51:34 key: up
+debug 2025/05/02 16:51:34 key: up
+debug 2025/05/02 16:51:34 key: up
+debug 2025/05/02 16:51:35 key: up
+debug 2025/05/02 16:51:35 key: up
+debug 2025/05/02 16:51:35 key: up
+debug 2025/05/02 16:51:35 key: up
+debug 2025/05/02 16:51:35 key: up
+debug 2025/05/02 16:51:36 key: up
+debug 2025/05/02 16:51:36 key: up
+debug 2025/05/02 16:51:36 key: up
+debug 2025/05/02 16:51:37 key: down
+debug 2025/05/02 16:51:37 key: down
+debug 2025/05/02 16:51:38 key: down
+debug 2025/05/02 16:51:38 key: down
+debug 2025/05/02 16:51:38 key: down
+debug 2025/05/02 16:51:39 key: down
+debug 2025/05/02 16:51:40 key: down
+debug 2025/05/02 17:02:24 key: q
+debug 2025/05/02 17:02:25 Query: git
+debug 2025/05/02 17:02:25 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 17:02:25 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 17:02:25 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 17:02:25 found "git" at index 115: "git amend"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git branch"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout ."
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout development"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git diff"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git log -p"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git merge develop"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git reset"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 17:02:25 found "git" at index 115: "git stash"
+debug 2025/05/02 17:02:25 "git" not found
+debug 2025/05/02 17:02:25 Failed to run program: program was killed: program experienced a panic
+debug 2025/05/02 17:04:39 Query: git
+debug 2025/05/02 17:04:39 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 17:04:39 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 17:04:39 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 17:04:39 found "git" at index 115: "git amend"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git branch"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout ."
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout development"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git diff"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git log -p"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git merge develop"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git reset"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 17:04:39 found "git" at index 115: "git stash"
+debug 2025/05/02 17:04:39 "git" not found
+debug 2025/05/02 17:04:39 Failed to run program: program was killed: program experienced a panic
+debug 2025/05/02 17:06:05 Query: git
+debug 2025/05/02 17:06:05 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 17:06:05 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 17:06:05 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 17:06:05 found "git" at index 115: "git amend"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git branch"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout ."
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout development"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git diff"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git log -p"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git merge develop"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git reset"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 17:06:05 found "git" at index 115: "git stash"
+debug 2025/05/02 17:06:05 "git" not found
+debug 2025/05/02 17:06:05 Failed to run program: program was killed: program experienced a panic
+debug 2025/05/02 17:06:12 Query: git
+debug 2025/05/02 17:06:12 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 17:06:12 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 17:06:12 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 17:06:12 found "git" at index 115: "git amend"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git branch"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout ."
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout development"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git diff"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git log -p"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git merge develop"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git reset"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 17:06:12 found "git" at index 115: "git stash"
+debug 2025/05/02 17:06:12 "git" not found
+debug 2025/05/02 17:06:13 key: down
+debug 2025/05/02 17:06:13 key: down
+debug 2025/05/02 17:06:13 key: down
+debug 2025/05/02 17:06:13 key: down
+debug 2025/05/02 17:06:14 key: down
+debug 2025/05/02 17:06:14 key: down
+debug 2025/05/02 17:06:14 key: down
+debug 2025/05/02 17:06:14 key: down
+debug 2025/05/02 17:06:15 key: down
+debug 2025/05/02 17:06:15 key: down
+debug 2025/05/02 17:06:15 key: down
+debug 2025/05/02 17:06:16 key: down
+debug 2025/05/02 17:06:16 key: down
+debug 2025/05/02 17:06:16 key: down
+debug 2025/05/02 17:06:17 key: down
+debug 2025/05/02 17:06:17 key: down
+debug 2025/05/02 17:06:17 key: down
+debug 2025/05/02 17:06:17 key: up
+debug 2025/05/02 17:06:18 key: up
+debug 2025/05/02 17:06:18 key: up
+debug 2025/05/02 17:06:18 key: up
+debug 2025/05/02 17:06:18 key: up
+debug 2025/05/02 17:06:18 key: up
+debug 2025/05/02 17:06:19 key: up
+debug 2025/05/02 17:06:19 key: up
+debug 2025/05/02 17:06:19 key: up
+debug 2025/05/02 17:06:19 key: up
+debug 2025/05/02 17:06:19 key: up
+debug 2025/05/02 17:06:20 key: up
+debug 2025/05/02 17:06:20 key: up
+debug 2025/05/02 17:06:21 key: down
+debug 2025/05/02 17:06:22 key: down
+debug 2025/05/02 17:06:22 key: down
+debug 2025/05/02 17:06:59 key: down
+debug 2025/05/02 17:06:59 key: down
+debug 2025/05/02 17:07:00 key: down
+debug 2025/05/02 17:07:01 key: up
+debug 2025/05/02 17:07:02 key: up
+debug 2025/05/02 17:07:02 key: up
+debug 2025/05/02 17:07:03 key: up
+debug 2025/05/02 17:07:03 key: up
+debug 2025/05/02 17:07:04 key: up
+debug 2025/05/02 17:07:12 key: down
+debug 2025/05/02 17:07:12 key: down
+debug 2025/05/02 17:07:14 key: up
+debug 2025/05/02 17:07:14 key: down
+debug 2025/05/02 17:07:41 key: down
+debug 2025/05/02 17:07:42 key: up
+debug 2025/05/02 17:07:43 key: up
+debug 2025/05/02 17:07:43 key: up
+debug 2025/05/02 17:07:44 key: up
+debug 2025/05/02 17:07:44 key: up
+debug 2025/05/02 17:07:44 key: up
+debug 2025/05/02 17:07:44 key: up
+debug 2025/05/02 17:07:45 key: up
+debug 2025/05/02 17:08:54 key: q
+debug 2025/05/02 17:08:56 Query: git
+debug 2025/05/02 17:08:56 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 17:08:56 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 17:08:56 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 17:08:56 found "git" at index 115: "git amend"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git branch"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout ."
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout development"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git diff"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git log -p"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git merge develop"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git reset"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 17:08:56 found "git" at index 115: "git stash"
+debug 2025/05/02 17:08:56 "git" not found
+debug 2025/05/02 17:08:58 key: down
+debug 2025/05/02 17:08:58 key: down
+debug 2025/05/02 17:08:58 key: down
+debug 2025/05/02 17:08:58 key: down
+debug 2025/05/02 17:08:58 key: down
+debug 2025/05/02 17:08:59 key: down
+debug 2025/05/02 17:08:59 key: down
+debug 2025/05/02 17:08:59 key: down
+debug 2025/05/02 17:08:59 key: down
+debug 2025/05/02 17:08:59 key: down
+debug 2025/05/02 17:09:00 key: down
+debug 2025/05/02 17:09:00 key: up
+debug 2025/05/02 17:09:00 key: up
+debug 2025/05/02 17:09:00 key: up
+debug 2025/05/02 17:09:01 key: up
+debug 2025/05/02 17:09:01 key: up
+debug 2025/05/02 17:09:01 key: up
+debug 2025/05/02 17:09:01 key: up
+debug 2025/05/02 17:09:01 key: up
+debug 2025/05/02 17:09:02 key: up
+debug 2025/05/02 17:09:02 key: up
+debug 2025/05/02 17:09:02 key: up
+debug 2025/05/02 17:09:02 key: up
+debug 2025/05/02 17:09:02 key: up
+debug 2025/05/02 17:09:03 key: up
+debug 2025/05/02 17:09:03 key: up
+debug 2025/05/02 17:09:03 key: up
+debug 2025/05/02 17:09:03 key: down
+debug 2025/05/02 17:09:03 key: down
+debug 2025/05/02 17:09:03 key: down
+debug 2025/05/02 17:09:04 key: down
+debug 2025/05/02 17:09:04 key: down
+debug 2025/05/02 17:09:04 key: down
+debug 2025/05/02 17:09:05 key: down
+debug 2025/05/02 17:09:05 key: down
+debug 2025/05/02 17:09:05 key: down
+debug 2025/05/02 17:09:06 key: up
+debug 2025/05/02 17:09:06 key: up
+debug 2025/05/02 17:09:06 key: up
+debug 2025/05/02 17:09:07 key: up
+debug 2025/05/02 17:09:08 key: down
+debug 2025/05/02 17:09:09 key: up
+debug 2025/05/02 17:09:10 key: down
+debug 2025/05/02 17:09:10 key: up
+debug 2025/05/02 17:09:10 key: down
+debug 2025/05/02 17:09:11 key: up
+debug 2025/05/02 17:09:12 key: down
+debug 2025/05/02 17:09:12 key: down
+debug 2025/05/02 17:09:13 key: up
+debug 2025/05/02 17:09:14 key: up
+debug 2025/05/02 17:09:14 key: up
+debug 2025/05/02 17:09:15 key: down
+debug 2025/05/02 17:11:23 key: q
+debug 2025/05/02 17:11:25 Query: git
+debug 2025/05/02 17:11:25 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 17:11:25 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 17:11:25 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 17:11:25 found "git" at index 115: "git amend"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git branch"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout ."
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout development"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git diff"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git log -p"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git merge develop"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git reset"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 17:11:25 found "git" at index 115: "git stash"
+debug 2025/05/02 17:11:25 "git" not found
+debug 2025/05/02 17:11:25 key: down
+debug 2025/05/02 17:11:26 key: down
+debug 2025/05/02 17:11:26 key: down
+debug 2025/05/02 17:11:26 key: down
+debug 2025/05/02 17:11:26 key: down
+debug 2025/05/02 17:11:27 key: down
+debug 2025/05/02 17:11:27 key: down
+debug 2025/05/02 17:11:27 key: down
+debug 2025/05/02 17:11:28 key: down
+debug 2025/05/02 17:11:29 key: up
+debug 2025/05/02 17:11:29 key: up
+debug 2025/05/02 17:11:29 key: up
+debug 2025/05/02 17:11:29 key: up
+debug 2025/05/02 17:11:29 key: up
+debug 2025/05/02 17:11:30 key: up
+debug 2025/05/02 17:11:30 key: up
+debug 2025/05/02 17:11:30 key: up
+debug 2025/05/02 17:11:30 key: up
+debug 2025/05/02 17:11:30 key: down
+debug 2025/05/02 17:11:31 key: down
+debug 2025/05/02 17:11:31 key: down
+debug 2025/05/02 17:11:31 key: down
+debug 2025/05/02 17:11:31 key: down
+debug 2025/05/02 17:11:31 key: down
+debug 2025/05/02 17:11:32 key: down
+debug 2025/05/02 17:11:32 key: down
+debug 2025/05/02 17:11:32 key: down
+debug 2025/05/02 17:11:32 key: down
+debug 2025/05/02 17:11:32 Failed to run program: program was killed: program experienced a panic
+debug 2025/05/02 17:12:47 Query: git
+debug 2025/05/02 17:12:47 History file /Users/seancaetanomartin/.history does not exist
+debug 2025/05/02 17:12:47 Read 1007 lines from history file /Users/seancaetanomartin/.zsh_history
+debug 2025/05/02 17:12:47 History file /Users/seancaetanomartin/.bash_history does not exist
+debug 2025/05/02 17:12:47 found "git" at index 115: "git amend"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git branch"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b chore-cleanup-recall-users"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b chore-remove-users-from-dev-and-staging-recall"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b chore-update-recall-calendar-v1-config-with-new-staging-and-dev-api-keys"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feat-cloudinary-avatars"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feat-show-bot-sessions-in-upcoming"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feature-allow-calling-recall-cleanup-from-encore-dashboard"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feature/bac-2410-fix-participant-attribution-for-recall-sessions"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feature/bac-2450-introduce-a-new-meeting-type-for-recall-bot-sessions"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feature/bac-2498-recall-is-missing-our-custom-vocabulary-config-for-deepgram"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b feature/bac-2502-fix-recall-cleanup-cron-job-to-expect-204-requests"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b fix-adds-missing-tag-to-private-endpoint"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b fix-allow-more-time-to-pipe-the-recall-recording-to-s3"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b fix-catch-error-when-trying-to-upload-recall-recording"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b fix-culture-or-lang-parameter-in-recall-transcript-messages"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b fix-move-recall-recording-process-to-its-own-goroutine"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout -b temp/recall-recordings"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout ."
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout develop"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout development"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout elio/meetings/session-read.go"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout elio/transcriptions/api/storage.go"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout elio/wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout feat-cloudinary-avatars"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout feature/bac-2344-connect-microsoft-outlook"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout feature/bac-2433-move-seed-data-to-goembed-and-run-it-for-inserting-test-data-rebase"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout feature/web-2652-add-meeting-controls-to-the-pip-window-of-the-screen-share"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout https://github.com/Waitroom/backend/pull/211"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout ingest-recall-recordings-encore-pipeline"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout meetings/session-read.go"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout release/encore-pipeline"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout services/luxor-api/luxor.go"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout transcriptions/api/storage.go"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout transcriptions/migrations/8_seed_batch.up.sql"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git checkout wormhole/services/luxor-api/luxor.go"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git commit --amend"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git diff"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git log -p"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git merge develop"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git reset"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git reset --hard"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git reset HEAD~1"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git reset wormhole"
+debug 2025/05/02 17:12:47 found "git" at index 115: "git stash"
+debug 2025/05/02 17:12:47 "git" not found
+debug 2025/05/02 17:12:48 key: down
+debug 2025/05/02 17:12:49 key: down
+debug 2025/05/02 17:12:49 key: up
+debug 2025/05/02 17:12:49 key: up
+debug 2025/05/02 17:12:49 key: up
+debug 2025/05/02 17:12:49 key: up
+debug 2025/05/02 17:12:50 key: up
+debug 2025/05/02 17:12:50 key: down
+debug 2025/05/02 17:12:50 key: down
+debug 2025/05/02 17:12:50 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:51 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:52 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:53 key: down
+debug 2025/05/02 17:12:54 key: up
+debug 2025/05/02 17:12:54 key: up
+debug 2025/05/02 17:12:54 key: up
+debug 2025/05/02 17:12:54 key: up
+debug 2025/05/02 17:12:54 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:55 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:56 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:12:57 key: up
+debug 2025/05/02 17:13:01 key: q
