@@ -5,14 +5,16 @@ import (
 	"os"
 )
 
+var IsDebug = os.Getenv("DEBUG") != ""
+
 func Debug(v ...interface{}) {
-	if os.Getenv("DEBUG") != "" {
+	if IsDebug {
 		log.Println(v...)
 	}
 }
 
 func Debugf(format string, v ...interface{}) {
-	if os.Getenv("DEBUG") != "" {
+	if IsDebug {
 		log.Printf(format, v...)
 	}
 }

@@ -55,5 +55,4 @@ func main() {
 	for _, result := range results {
 		lib.Debugf("found: %s", result)
 	}
-
 }
