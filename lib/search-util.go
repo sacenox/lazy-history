@@ -23,7 +23,6 @@ func FindOne(history []string, query string) (string, int) {
 func Search(history []string, query string) []string {
 	results := []string{}
 	// sort the array
-	// note: am using an explicit sort function because unknown types in actual array, and not using a stable sort function because don't care that items that are equal to one another remain in the same order.
 	slices.Sort(history)
 
 	// Keep searching for matches until we don't find any more
