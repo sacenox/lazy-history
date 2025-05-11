@@ -11,16 +11,38 @@ type SearchResult struct {
 	Distance int
 }
 
+func Search(slice []string, substring string) []string {
+	results := search(slice, substring)
+
+	return lo.Map(results, func(result SearchResult, _ int) string {
+		return result.Value
+	})
+}
+
 // Search a slice of strings for a substring and sort by levenshtein distance.
-func Search(slice []string, substring string) []SearchResult {
+func search(slice []string, substring string) []SearchResult {
 	results := lo.Reduce(slice, func(agg []SearchResult, item string, index int) []SearchResult {
-		distance := levenshteinDistance(item, substring)
+		// Skip empty lines
+		if len(item) <= 0 {
+			return agg
+		}
+
+		// Skip lines that already exist in the results
 		contains := lo.ContainsBy(agg, func(result SearchResult) bool {
 			return result.Value == item
 		})
-		if distance <= 3 && !contains {
-			agg = append(agg, SearchResult{Value: item, Distance: distance})
+		if contains {
+			return agg
 		}
+
+		// Skip lines with a levenshtein distance greater than 3
+		distance := levenshteinDistance(item, substring)
+		if distance > 4 {
+			return agg
+		}
+
+		agg = append(agg, SearchResult{Value: item, Distance: distance})
+
 		return agg
 	}, []SearchResult{})
 

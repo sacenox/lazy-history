@@ -25,8 +25,8 @@ func TestSearch(t *testing.T) {
 	}
 
 	for _, test := range tests {
-		if got := Search(test.slice, test.substring); !reflect.DeepEqual(got, test.want) {
-			t.Errorf("Search(%v, %q) = %v; want %v", test.slice, test.substring, got, test.want)
+		if got := search(test.slice, test.substring); !reflect.DeepEqual(got, test.want) {
+			t.Errorf("search(%v, %q) = %v; want %v", test.slice, test.substring, got, test.want)
 		}
 	}
 }
