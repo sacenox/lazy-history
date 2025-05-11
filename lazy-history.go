@@ -60,7 +60,7 @@ func main() {
 	}
 
 	results := lib.Search(history, query)
-	p := tea.NewProgram(lib.NewHistory(results))
+	p := tea.NewProgram(lib.NewHistory(results), tea.WithAltScreen())
 
 	_, err := p.Run()
 	if err != nil {

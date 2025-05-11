@@ -5,13 +5,31 @@ import (
 	"os/exec"
 	"strings"
 
+	"github.com/charmbracelet/bubbles/list"
 	tea "github.com/charmbracelet/bubbletea"
 )
+
+type ListItem struct {
+	title string
+}
+
+func (l ListItem) Title() string {
+	return l.title
+}
+
+func (l ListItem) Description() string {
+	return ""
+}
+
+func (l ListItem) FilterValue() string {
+	return l.title
+}
 
 type History struct {
 	Entries  []string
 	Selected int
 	Output   *bytes.Buffer
+	List     list.Model
 }
 
 type ExecuteEntryMsg struct {
@@ -19,10 +37,14 @@ type ExecuteEntryMsg struct {
 }
 
 func NewHistory(entries []string) *History {
+	items := make([]list.Item, len(entries))
+	for i, entry := range entries {
+		items[i] = ListItem{title: entry}
+	}
 	return &History{
-		Entries:  entries,
 		Selected: 0,
 		Output:   &bytes.Buffer{},
+		List:     list.New(items, list.NewDefaultDelegate(), 0, 0),
 	}
 }
 
@@ -31,12 +53,10 @@ func (h *History) Init() tea.Cmd {
 }
 
 func (h *History) ExecuteEntry(entry string) tea.Cmd {
-	Debugf("executing: %s", entry)
 	parts := strings.Split(entry, " ")
 	cmd := exec.Command(parts[0], parts[1:]...)
 	cmd.Stdout = h.Output
 	return tea.ExecProcess(cmd, func(err error) tea.Msg {
-		Debugf("error: %v", err)
 		return ExecuteEntryMsg{Error: err}
 	})
 }
@@ -45,41 +65,32 @@ func (h *History) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 	switch msg := msg.(type) {
 
 	case ExecuteEntryMsg:
-		Debugf("ExecuteEntryMsg: %v", msg)
 		if msg.Error != nil {
 			Debugf("error: %v", msg.Error)
 			return h, nil
 		}
 		return h, tea.Quit
 
+	case tea.WindowSizeMsg:
+		h.List.SetSize(msg.Width, msg.Height)
+
 	// Is it a key press?
 	case tea.KeyMsg:
-		Debugf("key: %s", msg.String())
-
 		switch msg.String() {
 		// These keys should exit the program.
 		case "ctrl+c", "q":
 			return h, tea.Quit
-		// The "up" and "k" keys move the cursor up
-		case "up", "k":
-			if h.Selected > 0 {
-				h.Selected--
-			}
-		// The "down" and "j" keys move the cursor down
-		case "down", "j":
-			if h.Selected < len(h.Entries)-1 {
-				h.Selected++
-			}
 		case "enter":
 			// return the selected entry, and run the command
-			Debugf("executing: %s", h.Entries[h.Selected])
-			return h, h.ExecuteEntry(h.Entries[h.Selected])
+			selected := h.List.SelectedItem().(ListItem)
+			Debugf("executing: %s", selected.title)
+			return h, h.ExecuteEntry(selected.title)
 		}
 	}
 
-	// Return the updated model to the Bubble Tea runtime for processing.
-	// Note that we're not returning a command.
-	return h, nil
+	var cmd tea.Cmd
+	h.List, cmd = h.List.Update(msg)
+	return h, cmd
 }
 
 func (h *History) View() string {
@@ -89,16 +100,5 @@ func (h *History) View() string {
 		return output
 	}
 
-	history := ""
-
-	// Print all entries with the selected one highlighted
-	for i, entry := range h.Entries {
-		if i == h.Selected {
-			history += "> " + entry + "\n"
-		} else {
-			history += "  " + entry + "\n"
-		}
-	}
-
-	return history
+	return h.List.View()
 }
