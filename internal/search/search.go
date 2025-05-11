@@ -2,6 +2,7 @@ package search
 
 import (
 	"sort"
+	"strings"
 
 	"github.com/samber/lo"
 )
@@ -21,12 +22,12 @@ func Search(slice []string, substring string) []string {
 
 // Search a slice of strings for a substring and sort by levenshtein distance.
 func search(slice []string, substring string) []SearchResult {
-	results := lo.Reduce(slice, func(agg []SearchResult, item string, index int) []SearchResult {
-		// Skip empty lines
-		if len(item) <= 0 {
-			return agg
-		}
+	// search for the substring in the slice
+	matches := lo.Filter(slice, func(item string, _ int) bool {
+		return strings.Contains(item, substring)
+	})
 
+	results := lo.Reduce(matches, func(agg []SearchResult, item string, index int) []SearchResult {
 		// Skip lines that already exist in the results
 		contains := lo.ContainsBy(agg, func(result SearchResult) bool {
 			return result.Value == item
@@ -34,13 +35,7 @@ func search(slice []string, substring string) []SearchResult {
 		if contains {
 			return agg
 		}
-
-		// Skip lines with a levenshtein distance greater than 3
 		distance := levenshteinDistance(item, substring)
-		if distance > 4 {
-			return agg
-		}
-
 		agg = append(agg, SearchResult{Value: item, Distance: distance})
 
 		return agg
