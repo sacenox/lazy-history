@@ -54,23 +54,35 @@ func search(slice []string, substring string) []SearchResult {
 }
 
 func levenshteinDistance(s, t string) int {
+	// Create matrix of size (lenS+1)*(lenT+1)
 	lenS := len(s)
 	lenT := len(t)
 
-	if lenS == 0 {
-		return lenT
+	// Initialize the matrix
+	d := make([][]int, lenS+1)
+	for i := range d {
+		d[i] = make([]int, lenT+1)
+		d[i][0] = i // Fill first column
 	}
-	if lenT == 0 {
-		return lenS
+	for j := range d[0] {
+		d[0][j] = j // Fill first row
 	}
 
-	if s[lenS-1] == t[lenT-1] {
-		return levenshteinDistance(s[:lenS-1], t[:lenT-1])
+	// Fill the matrix
+	for i := 1; i <= lenS; i++ {
+		for j := 1; j <= lenT; j++ {
+			cost := 1
+			if s[i-1] == t[j-1] {
+				cost = 0
+			}
+
+			d[i][j] = min(
+				d[i-1][j]+1,      // deletion
+				d[i][j-1]+1,      // insertion
+				d[i-1][j-1]+cost, // substitution
+			)
+		}
 	}
 
-	return 1 + min(
-		levenshteinDistance(s[:lenS-1], t),
-		levenshteinDistance(s, t[:lenT-1]),
-		levenshteinDistance(s[:lenS-1], t[:lenT-1]),
-	)
+	return d[lenS][lenT]
 }

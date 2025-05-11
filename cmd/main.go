@@ -6,6 +6,7 @@ import (
 	"os"
 	"os/exec"
 	"path/filepath"
+	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
 	internal_list "github.com/sacenox/lazy-history/internal/list"
@@ -59,9 +60,10 @@ func main() {
 		historyFile.Close()
 	}
 
-	log.Printf("History: %v", history)
+	log.Printf("History length: %d", len(history))
 
-	query := os.Args[1] // args without program name
+	// Join all args into a single string
+	query := strings.Join(os.Args[1:], " ")
 
 	log.Printf("Searching for %s", query)
 
