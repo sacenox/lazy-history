@@ -6,6 +6,7 @@ Currently still in early development.
 
 ## TODO:
 
+- [ ] -> When used with the keybind, there is no query, there should be a way to add a query from the tui.
 - [ ] -> Pinned/Favorite commands? Able to add/remove a command from the list to a favorites/pinned list
 
 ## How to use:
